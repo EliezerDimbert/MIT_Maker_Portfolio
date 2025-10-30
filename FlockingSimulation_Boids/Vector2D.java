@@ -1,4 +1,4 @@
-package BoidsFinal;
+package MIT_Maker_Portfolio.FlockingSimulation_Boids;
 
 public class Vector2D {
 

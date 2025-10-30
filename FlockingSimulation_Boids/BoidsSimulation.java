@@ -1,4 +1,5 @@
-package BoidsFinal;
+package MIT_Maker_Portfolio.FlockingSimulation_Boids;
+
 import javax.swing.*;
 import java.awt.BorderLayout; // For layout if needed
 import java.awt.GridLayout;

@@ -1,4 +1,5 @@
-package BoidsFinal;
+package MIT_Maker_Portfolio.FlockingSimulation_Boids;
+
 import java.awt.Graphics2D;
 import java.util.*;
 public class BoidManager {
