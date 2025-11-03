@@ -1,7 +1,12 @@
 # 3D Conway's Life
 #### Video Demo:  https://youtu.be/nYCoh-rT5bQ
 #### Description: A rendition of the popular cellular automota Conway's Game of Life. 
-
+#### How to run:
+```bash
+python final.py
+# or on Mac
+python3 final.py
+```
 # The project can be spit into 2 parts: 
 ## Player Controls
 ### processKeys
