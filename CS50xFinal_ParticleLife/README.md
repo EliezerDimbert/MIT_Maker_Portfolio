@@ -1,24 +1,10 @@
 # MicroMotion - A Particle Life Simulator
 #### Video Demo: https://youtu.be/G3rt9d8fllI
-### Thanks:
-I just wanted to thank all the cs50 staff for giving me this oppurtunity.
-As someone doing this in their Sophmore summer, I've been quickly outgrowing what my school's
-Engineering departmnet is capable of teaching me. This course has allowed me to continue
-learning more practical code than just Arduino. Im planning to take more online cs courses by
-you guys and i'm so grateful to you all for putting it online (I was smiling ear to ear when I saw all
-the options during the week 10 lecture).
-
-Once again, thank you and zeveryone on the team.
-If you have any comments, please feel free to contact me at eliezer@dimbert.net
-
-SMALL DISCLAIMER:
-
-THIS PROJECT WAS GREATLY INSPIRED BY A YOUTUBE VIDEO (see below).
-ALTHOUGH HE DOES OFFER A REPOSITORY THAT INCLUDES THIS SIMULATION IN PYTHON,
-I DID NOT USE THAT AND HAVE ONLY ADAPTED HIS JAVASCRIPT VERSION. IN THE FILES
-YOU WILL SEE particleLife.js. THIS WAS MY FIRST ATTEMPT TO UNDERSTAND HIS CODE
-BEFORE ADAPTING TO PYTHON.
-https://www.youtube.com/watch?v=0Kx4Y9TVMGg
+### How to run:
+```bash
+pip install -r requirements.txt
+flask run
+```
 
 ## Description:
 ### simulationHelpers
